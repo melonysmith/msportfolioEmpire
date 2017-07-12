@@ -1,0 +1,112 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Cardo|Muli');
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+
+/* CUSTOM CSS */
+
+body {
+    background: #8c8c8c;
+    background: linear-gradient(#8c8c8c, #c0c0c0, #8c8c8c);
+    background: -webkit-linear-gradient(#8c8c8c, #c0c0c0, #8c8c8c);
+    background: -o-linear-gradient(#8c8c8c, #c0c0c0, #8c8c8c);
+    background: -moz-linear-gradient(#8c8c8c, #c0c0c0, #8c8c8c);
+    font-family: 'Muli', sans-serif;
+}
+
+a {
+    color: #e04799;
+}
+
+a:hover {
+    color: #006BA1;
+}
+
+.btn {
+    background-color: #e04799;
+    color: #404040;
+    border: 2px solid #404040;
+}
+
+.btn:hover {
+    background-color: #006BA1;
+}
+
+.bg-inverse {
+    background-color: #404040!important;
+    width: 100%;
+}
+
+.my-4 {
+    color: #ffffff;
+    text-shadow: 2px 2px 3px #404040;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Cardo', serif;
+    color: #ffffff;
+    text-shadow: 2px 2px 3px #404040;
+}
+
+.h-100 {
+    background-color: #8c8c8c;
+}
+
+.card-header {
+    background-color: #024059;
+}
+
+h4 {
+    color: #E04799;
+    text-shadow: 2px 2px #404040;
+    font-family: 'Cardo', serif;
+    text-align: center;
+}
+
+.card-block {
+    background-color: #404040!important;
+    color: #8c8c8c;
+}
+
+.carousel-caption p {
+    color: #404040;
+}
+
+.morePort p {
+    text-align: center;
+}
+
+span {
+    color: #006BA1;
+    font-size: 0.50em;
+    text-shadow: none;
+}
